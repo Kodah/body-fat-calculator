@@ -102,6 +102,17 @@
     // Dispose of any resources that can be recreated.
 }
 
+//-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+//    return 3;
+//}
+//
+//-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+//    
+//    UITableViewCell *cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"cell"];
+//    
+//    cell.textLabel.text = @"cunt";
+//    return cell;
+//}
 /*
 #pragma mark - Navigation
 
